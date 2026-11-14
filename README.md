@@ -24,8 +24,6 @@ claude plugin install mimic@arukas-black-marketplace
 
 ## Mimic
 
-**For Claude.** This package supplies Claude-specific setup and usage guidance.
-
 **Memory across AI conversations.** Save and find notes, decisions and text files
 in your own workspace. Ask a question, use keywords or skim for orientation.
 Source details are available separately, keeping ordinary results readable.
