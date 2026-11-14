@@ -3,14 +3,14 @@
 <h1 align="center">Arukas Black Marketplace</h1>
 <p align="center">Tools for your AI workspace. Starting with Mimic.</p>
 
-## Install Mimic in Claude
+## Install Mimic for Claude
 
 1. Open **Customize → Plugins → Add → Add marketplace**.
 2. Enter this repository URL:
 
    **https://github.com/arukas-black/arukas-black-marketplace**
 
-3. Add **Mimic**, open its **Connectors** tab, then connect and sign in.
+3. Add **Mimic for Claude**, open its **Connectors** tab, then connect and sign in.
 
 An organization administrator may need to allow the marketplace or connector.
 Installation and sign-in are separate steps; the plugin contains no shared credentials.
@@ -22,7 +22,9 @@ claude plugin marketplace add arukas-black/arukas-black-marketplace
 claude plugin install mimic@arukas-black-marketplace
 ```
 
-## Mimic
+## Mimic for Claude
+
+**Client: Claude.** This installation package is for Claude; the product and internal plugin name remain Mimic (`mimic`).
 
 **Memory across AI conversations.** Save and find notes, decisions and text files
 in your own workspace. Ask a question, use keywords or skim for orientation.
