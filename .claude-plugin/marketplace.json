@@ -1,6 +1,6 @@
 {
   "name": "arukas-black-marketplace",
-  "description": "Arukas Black Marketplace — client plugins for Claude, starting with Mimic.",
+  "description": "Arukas Black Marketplace — tools and integrations, starting with Mimic.",
   "owner": {
     "name": "Arukas Black"
   },
@@ -8,7 +8,7 @@
     {
       "name": "mimic",
       "source": "./plugins/mimic",
-      "description": "For Claude. Save and find notes, decisions and files across chats in your private Mimic workspace. Sign in with your email; the operator activates your workspace."
+      "description": "Memory across AI conversations. Save and find notes, decisions and files in your private Mimic workspace. Sign in with your email; the operator activates your workspace."
     }
   ]
 }
