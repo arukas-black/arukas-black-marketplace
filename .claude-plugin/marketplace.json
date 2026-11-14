@@ -8,7 +8,7 @@
     {
       "name": "mimic",
       "source": "./plugins/mimic",
-      "description": "Mimic for Claude. Save and find notes, decisions and files across chats in your private workspace. Sign in with your email; the operator activates your workspace."
+      "description": "For Claude. Save and find notes, decisions and files across chats in your private Mimic workspace. Sign in with your email; the operator activates your workspace."
     }
   ]
 }
