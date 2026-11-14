@@ -1,7 +1,7 @@
 {
   "name": "mimic",
-  "version": "0.3.1",
-  "description": "Memory across AI conversations. Mimic gives Claude a private workspace for saving and finding notes, decisions and files across chats. Sign in with your email; the operator activates your workspace.",
+  "version": "0.3.2",
+  "description": "Mimic for Claude. Save and find notes, decisions and files across chats in your private workspace. Sign in with your email; the operator activates your workspace.",
   "author": {
     "name": "Arukas Black"
   },
@@ -14,6 +14,5 @@
   ],
   "icon": "./assets/logo-v2.png",
   "privacyPolicyUrl": "https://mcp.arukas.black/mimic/privacy",
-  "license": "LicenseRef-Proprietary",
-  "displayName": "Mimic for Claude"
+  "license": "LicenseRef-Proprietary"
 }
