@@ -36,8 +36,6 @@ Handbook, Activity and Feedback**.
 - Use your own email and enter the email code only on the sign-in page.
 - The operator activates your workspace. Before activation, only Identity and
   Handbook are available. A new account starts with empty memory.
-- During this pilot, email-code delivery is limited to enabled, verified test
-  recipients. Contact the person who invited you to arrange access.
 - Enable Mimic in a conversation, then ask: **“Use Mimic Identity to show my
   workspace status. Do not save anything.”**
 
