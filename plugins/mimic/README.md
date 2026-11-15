@@ -16,8 +16,8 @@ operators and is kept outside your memory.
 3. The operator activates your workspace. Until then only Identity and Handbook are
    available. New accounts begin with an empty workspace.
 
-Use a computer for the first sign-in. During the pilot, email verification is available
-only for verified test recipients.
+Use a computer for the first sign-in. Email verification and workspace activation
+are separate steps; the operator manages activation.
 
 ## Tools
 
