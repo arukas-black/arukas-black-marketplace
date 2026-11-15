@@ -1,6 +1,6 @@
 {
   "name": "mimic",
-  "version": "0.3.4",
+  "version": "0.3.5",
   "description": "Memory across AI conversations. Save and find notes, decisions and files in your private Mimic workspace. Sign in with your email; the operator activates your workspace.",
   "author": {
     "name": "Arukas Black"
