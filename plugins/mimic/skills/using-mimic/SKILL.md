@@ -28,9 +28,11 @@ remember the session automatically, so later calls omit the handle. Do not
 mistake the authenticated account for the particular AI or conversation. Identity
 can correct a name/brief on the same ID or switch recording identity while
 keeping the session. Start another session only when explicitly requested.
-Human attribution defaults to the account owner and changes only on explicit
-human instruction. If automatic binding is unavailable, consult the sessions
-Handbook topic for the explicit fallback.
+Human confirmation is not required. Human attribution defaults to the account
+owner and can follow reliable conversation context, including a handoff. Keep
+inferred attribution distinct from verified identity. Attribution changes do not
+change workspace ownership or permissions. If automatic binding is unavailable,
+consult the sessions Handbook topic for the explicit fallback.
 
 Read only a missing action-specific Handbook topic. Use calls only when a full
 call reference is needed; reuse guidance already valid in context.
